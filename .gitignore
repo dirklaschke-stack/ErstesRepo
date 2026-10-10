@@ -1,0 +1,18 @@
+# Umgebungs- und Geheimdaten (Wichtig!)
+.env
+*.pem
+*.key
+geheim.txt
+
+
+# Systemdateien
+.DS_Store
+Thumbs.db
+
+# Abhängigkeiten und temporäre Caches (Beispiel Python / Node)
+__pycache__/
+*.pyc
+node_modules/
+
+# Lokale Editor-Einstellungen
+.vscode/
